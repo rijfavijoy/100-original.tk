@@ -1,0 +1,19 @@
+body {background: #181818;}
+body, button, input, select, optgroup, textarea, .site-footer *, .site-footer a, .site-footer p {color: #ccc;}
+a:focus, input[type="text"]:focus, input[type="email"]:focus, input[type="url"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="number"]:focus, input[type="tel"]:focus, input[type="range"]:focus, input[type="date"]:focus, input[type="month"]:focus, input[type="week"]:focus, input[type="time"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="color"]:focus, textarea:focus {color: #ccc;outline-color: #d8c4a4;}
+.card_title a, .site-description, .btn-primary, body .btn-primary, .btn.btn-primary, .card-blog-post .card_body p, .search-form .search-field, .wp-block-search .wp-block-search__input {color: #ddd;}
+.main-navigation a, .site-header.site-header-left-logo .site-header-top .site-header-top-menu li a, .site-header.site-header-v2 .site-header-topbar .site-header-top-menu li a, .btn-secondary-border, .main-navigation a, .widget-area .widget a, .search-form .search-field:focus, .category-label-group a, .page-links .post-page-numbers, .card-blog-post .entry-meta a, .post-navigation .nav-links > * a, .ct-dark-mode .wp-block-table.is-style-stripes table tr:nth-child(2n + 1), .breadcrumb-trail .trial-items a, .breadcrumbs ul a, .breadcrumb-trail .trial-items li + li:before, .breadcrumbs ul li + li:before {color: #ccc;}
+p a, .entry-content a
+.site-title, .site-title a, h1.site-title a, p.site-title a, .site-title a:visited {color: #d8c4a4;}
+.search-form .search-field:focus, .wp-block-search .wp-block-search__input:focus {color: #444;}
+.site-header, .site-footer-top .widget .widget-title:after, .card-blog-post, .widget-area .widget, .site-footer-top {background-color: #212121;}
+.site-header.site-header-left-logo .site-header-top, .site-header.site-header-v2 .site-header-topbar, .site-footer-bottom {background-color: #1c1c1c;}
+.btn-primary, .search-form .search-submit, input[type="submit"], .wp-block-search .wp-block-search__button, .pagination .page-numbers {background-color: #444;}
+#secondary .widget .widget-title:after {background-color: #cd3636;}
+textarea, input, select, optgroup, .comment-list .comment .comment-body {background-color: #1c1c1c;color: #ccc;}
+.wp-block-search .wp-block-search__button, .search-form .search-field, .wp-block-search .wp-block-search__input {border-color: #444;}
+.site-header-bottom, .site-header-top {border-color: #bbb;}
+a:hover {color: #cd3636;}
+.card_title a:hover, .main-navigation #primary-menu > li > a:hover, .site-header.site-header-left-logo .site-header-top .site-header-top-menu li a:hover, .site-header.site-header-left-logo .site-header-top .site-header-top-menu li a:focus, .site-header.site-header-v2 .site-header-topbar .site-header-top-menu li a:hover, .site-header.site-header-v2 .site-header-topbar .site-header-top-menu li a:focus, .top-header-toggle-btn, .site-footer a:hover {color: #d8c4a4;}
+.single .card-blog-post .card_body {width: 100%;flex-basis: 100%;}
+@media screen and (max-width: 991px) {body.admin-bar #masthead #primary-menu.off_canva_nav {padding-top: 46px;}}
